@@ -26,3 +26,6 @@ Creación de formularios: Se creó un archivo forms.py con tres clases de formul
 Implementación de la búsqueda: Se agregó un formulario en views.py para buscar indumentaria por tipo, es decir busca por tipo de prenda: short, camiseta o botín. Al buscar short, aparecerán los diferentes shorts agregados. Se configuraron las URLs correspondientes y se crearon los archivos HTML para la búsqueda y los resultados, ambos estilizados con CSS.
 
 Inclusión de imágenes en los resultados de búsqueda: Se actualizó el HTML para mostrar las imágenes de los productos junto con sus detalles en los resultados de búsqueda.
+
+admin: david
+password : coder123
